@@ -9,16 +9,16 @@ export default class Scoreboard extends Component {
     state = {
         players: [
           {
-            name: 'Jim Hoskins',
-            score: 31,
+            name: 'Player One',
+            score: 22,
           },
           {
-            name: 'Andrew Chalkley',
-            score: 20,
+            name: 'Player Two',
+            score: 25,
           },
           {
-            name: 'Alena Holligan',
-            score: 50,
+            name: 'Player Three',
+            score: 35,
           },
         ],
       }
